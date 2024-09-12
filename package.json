@@ -2,7 +2,6 @@
   "name": "nextjs-tailwind-preset",
   "version": "0.1.0",
   "private": true,
-  "prettier": "@it-incubator/prettier-config",
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
